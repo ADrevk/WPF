@@ -1,0 +1,17 @@
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.csproj.AssemblyReference.cache
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.csproj.SuggestedBindingRedirects.cache
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\MainWindow.g.cs
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\App.g.cs
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation_MarkupCompile.cache
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\bin\Debug\WPFBallAnimation.exe.config
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\bin\Debug\WPFBallAnimation.exe
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\bin\Debug\WPFBallAnimation.pdb
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\bin\Debug\FarseerPhysics.dll
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\MainWindow.baml
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.g.resources
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.Properties.Resources.resources
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.csproj.GenerateResource.cache
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.csproj.CoreCompileInputs.cache
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.csproj.CopyComplete
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.exe
+D:\New_Era\Projects\WPFBallAnimation\WPFBallAnimation\obj\Debug\WPFBallAnimation.pdb
